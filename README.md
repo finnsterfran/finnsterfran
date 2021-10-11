@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @finnsterfran
 - 👀 I’m interested in anime, photography, fantasy books, nature, culinary adventures and many other things.
-- 🌱 I’m currently learning Python, Flask and Django for Python, React and Node.js for JavaScript and PHP - Wordpress developement.
+- 🌱 I’m currently learning Python, Flask and Django for Python, React and Node.js for JavaScript and PHP - Wordpress development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
